@@ -1,0 +1,9 @@
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Debug\evoface.exe.config
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\evoface.csprojResolveAssemblyReference.cache
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\evoface.Properties.Resources.resources
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\evoface.csproj.GenerateResource.Cache
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Debug\evoface.exe
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Debug\evoface.pdb
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\evoface.exe
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\evoface.pdb
+C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Debug\EvolutionaryFaceForm.Form1.resources
