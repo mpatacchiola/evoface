@@ -1,8 +1,0 @@
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Release\evoface.exe.config
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Release\evoface.exe
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\bin\Release\evoface.pdb
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Release\EvolutionaryFaceForm.Form1.resources
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Release\evoface.Properties.Resources.resources
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Release\evoface.csproj.GenerateResource.Cache
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Release\evoface.exe
-C:\Users\mpatacchiola\Dropbox\Code\Evoface Project\evoface\evoface\obj\Release\evoface.pdb
