@@ -7,12 +7,22 @@ Using GA it is possible to  find solutions to optimization problems. The algorit
 At the beginning a random population of agents is generated, in this first step the agents look very different.
  
 <p align="center">
-<img src="./screenshot/screenshot_4.PNG">
- </p>
+<img src="./screenshot/Capture.PNG">
+</p>
 
-After the random generation a function called *fitness* is used in order to *select* the best individuals. In evoface there is not a fitness function because it is the user that select the best individual of the population. After the selection some kind of recombination operators can be applied to the single agent or to a group of agents. 
+Generally a function called *fitness* is used in order to *select* the best individuals. In evoface there is not a fitness function because it is the user that select the best individual of the population. After the selection some kind of recombination operators can be applied to the single agent or to a group of agents. 
 
-When you select a specific face the software take the agent's chromosome and mutate it. The resulting offsprings are a recombination of the original agent. When a mutation happens it switches a single bit inside the chromosome and it influences the appearence of the offspring.  The mutation probability can be changed (the default value is 1.0%), higher the value higher the chromosome variability.
+When you select a specific face the software take the agent's chromosome and mutate it. The resulting offsprings are a recombination of the original agent. When a mutation happens it switches a single bit inside the chromosome and it influences the appearence of the offspring.  If you select an agent the remaining windows will be fill with 8 offsprings
+
+<p align="center">
+<img src="./screenshot/Capture2.PNG">
+</p>
+
+The mutation probability can be changed (the default value is 1.0%), higher the value higher the chromosome variability. For example, if you choose the same agent but you set an higher mutation probability (10.0%) the resulting offsprings will be more different than the parent.
+
+<p align="center">
+<img src="./screenshot/Capture3.PNG">
+</p>
 
 Architecture
 ------------
